@@ -16,6 +16,8 @@ socket can 실습
 
 Chap3_ACC Matlab
 
+# 가능한 시간만큼 진행
+
 ROS Melodic on TX
 
 ros lidar
@@ -25,6 +27,8 @@ ros usb camera
 ros opencv
 
 ros yolo
+
+simple fusion
 
 
 
